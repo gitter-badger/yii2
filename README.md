@@ -1,5 +1,6 @@
 Yii 2.0 Public Preview
 ======================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jdiond/yii2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Thank you for choosing Yii - a high-performance component-based PHP framework.
 
